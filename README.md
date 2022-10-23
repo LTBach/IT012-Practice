@@ -14,6 +14,6 @@
 * **Class Code:** IT012.M21.KHTN
 * **Year:** Semester 2(2020 - 2021)
 * **Lecturer**:  
-  - Trương Văn Cương - *cuongtv@uit.edu.vn*  
+  - Theory - Practice - Trương Văn Cương - *cuongtv@uit.edu.vn*  
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
