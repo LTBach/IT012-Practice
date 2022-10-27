@@ -12,8 +12,8 @@
 * **Lecture name:** Computer Architecture and Organization
 * **Lecture Code:** IT012
 * **Class Code:** IT012.M21.KHTN
-* **Year:** Semester 2(2020 - 2021)
+* **Year:** Semester 2(2021 - 20222)
 * **Lecturer**:  
   - Theory - Practice - Trương Văn Cương - *cuongtv@uit.edu.vn*  
 <!-- Footer -->
-<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
+<p align='center'>Copyright © 2022 - Lương Toàn Bách</p>
